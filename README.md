@@ -1,14 +1,10 @@
-# hackerrank
+# hackerrank - 30 days of code
 
- 30 days of code
-
-
-
-#Objective
+# Objective
 In this challenge, we're going to use loops to help us do some simple math. Check out the Tutorial tab to learn more.
 
-#Task
-Given an integer, , print its first  multiples. Each multiple  (where ) should be printed on a new line in the form: n x i = result.
+# Task
+Given an integer, **__n__** , print its first  multiples. Each multiple  (where ) should be printed on a new line in the form: n x i = result.
 
 Input Format
 
