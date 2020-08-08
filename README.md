@@ -15,7 +15,6 @@ A single integer,_**n**_.
 
 # Output Format
 Print _**10**_ lines of output; each line _**i**_ (where _**1 <= i <= 10**_) contains the _**result**_ of _**n x i**_ in the form:
-
 n x i = result.
 
 # Sample Input
